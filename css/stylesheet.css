@@ -1,0 +1,34 @@
+.content1 {
+    color: rgb(255, 0, 153);
+}
+
+body {
+    background: #444;
+    color: white;
+    background-color: rgb(235, 59, 147);
+}
+
+.ten {
+    color: rgb(179, 255, 0);
+}
+
+.mai {
+    color: rgb(179, 255, 0);
+}
+
+.nishi {
+    color: rgb(179, 255, 0);
+}
+
+.sakura-zukan {
+    color: aquamarine;
+}
+
+.slideshow {
+    width: 500px;
+
+}
+
+.slide img {
+    width: 100%
+}
